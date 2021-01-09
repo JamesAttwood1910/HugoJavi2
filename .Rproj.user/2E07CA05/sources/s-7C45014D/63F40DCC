@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1610213428749.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "88901001",
+    "id" : "63F40DCC",
+    "lastKnownWriteTime" : 1610213352,
+    "last_content_update" : 1610213352,
+    "path" : "~/Documents/Machine Learning/HugoJavi2/themes/hugo-theme-meme/theme.toml",
+    "project_path" : "themes/hugo-theme-meme/theme.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
